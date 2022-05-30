@@ -1,0 +1,11 @@
+.box-shadow:hover{
+    box-shadow: 7px 15px 23px -8px rgba(0,0,0,0.7);
+    -webkit-box-shadow: 7px 15px 23px -8px rgba(0,0,0,0.7);
+    -moz-box-shadow: 7px 15px 23px -8px rgba(0,0,0,0.7);
+}
+.box-button:hover{
+    background-color: #54D1B7;
+}
+.box-button:hover .box-heading , .box-button:hover .box-para{
+   color: white;
+}
